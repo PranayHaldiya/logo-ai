@@ -137,7 +137,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Special thanks to:
 
 - [Nebius AI](https://dub.sh/nebius) for powering our logo generation with their cutting-edge AI models and generous free credits
-- [Aman Bairagi](https://github.com/amanbairagi30) for his contributions to the UI design.
 
 ## Support
 

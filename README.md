@@ -4,6 +4,24 @@
 
 [LogoAI](https://www.logoai.in) is a modern web application that leverages artificial intelligence to generate unique, professional logos. Built with Next.js, TypeScript, and powered by Nebius AI, it offers a seamless experience for creating custom logos for businesses and personal brands.
 
+### 1. Dashboard
+![dashboard snap](https://github.com/PranayHaldiya/logo-ai/blob/main/public/Screenshot%202025-04-03%20213834.png)
+
+### 2. Login Page
+![Login snap](https://github.com/PranayHaldiya/logo-ai/blob/main/public/Screenshot%202025-04-03%20213712.png)
+
+### 3. Logo Generation
+![dashboard snap](https://github.com/PranayHaldiya/logo-ai/blob/main/public/Screenshot%202025-04-03%20235742.png)
+
+### 4. Recent Generations
+![recent generations snap](https://github.com/PranayHaldiya/logo-ai/blob/main/public/Screenshot%202025-04-03%20235806.png)
+
+### 5. Upstash Redis
+![upstash snap](https://github.com/PranayHaldiya/logo-ai/blob/main/public/Screenshot%202025-04-04%20000216.png)
+
+### 5. Neon DB
+![NeonDB snap](https://github.com/PranayHaldiya/logo-ai/blob/main/public/Screenshot%202025-04-04%20000247.png)
+
 ## Features
 
 - **AI-Powered Logo Generation**: Create unique logos using advanced AI models

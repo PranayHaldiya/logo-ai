@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Logo AI - Create Professional Logos in Minutes",
     description: "Generate unique, professional logos for your brand using AI. Choose from multiple styles, customize colors, and download high-quality logos instantly.",
-    creator: "@Arindam_1729",
+    creator: "@pranay_boremax",
   },
   robots: {
     index: true,

@@ -77,21 +77,21 @@ export default function Footer() {
               </div>
               <div className="flex gap-4 items-center justify-center">
                 <Link 
-                  href="https://git.new/Arindam" 
+                  href="https://github.com/PranayHaldiya" 
                   target="_blank" 
                   className="hover:text-primary transition-colors"
                 >
                   <IconBrandGithub className="size-5 md:size-8" />
                 </Link>
                 <Link 
-                  href="https://dub.sh/arindam-linkedin" 
+                  href="https://www.linkedin.com/in/pranay-haldiya-387116253" 
                   target="_blank"
                   className="hover:text-primary transition-colors"
                 >
                   <IconBrandLinkedin className="size-5 md:size-8" />
                 </Link>
                 <Link 
-                  href="https://dub.sh/arindam-x" 
+                  href="https://x.com/pranay_boremax" 
                   target="_blank"
                   className="hover:text-primary transition-colors"
                 >

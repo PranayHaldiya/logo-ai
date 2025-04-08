@@ -142,19 +142,19 @@ const Footer = () => (
     <div className="px-4 py-2 text-sm">
       Made with ❤️ by{" "}
       <Link 
-        href="https://github.com/arindamcodes" 
+        href="https://github.com/PranayHaldiya/logo-ai" 
         target="_blank"
         className="text-foreground hover:text-primary transition-colors"
       >
-        Arindam
+        Pranay
       </Link>
     </div>
 
     <div className="flex gap-4 items-center max-sm:hidden">
       {[
-        { href: "https://git.new/Arindam", Icon: IconBrandGithub },
-        { href: "https://dub.sh/arindam-linkedin", Icon: IconBrandLinkedin },
-        { href: "https://dub.sh/arindam-x", Icon: IconBrandX }
+        { href: "https://github.com/PranayHaldiya", Icon: IconBrandGithub },
+        { href: "https://www.linkedin.com/in/pranay-haldiya-387116253", Icon: IconBrandLinkedin },
+        { href: "", Icon: IconBrandX }
       ].map(({ href, Icon }) => (
         <Link 
           key={href}

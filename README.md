@@ -92,7 +92,7 @@ NEXT_PUBLIC_DEVELOPMENT_URL=http://localhost:3000
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Arindam200/logo-ai.git
+git clone https://github.com/PranayHaldiya/logo-ai.git
 cd logo-ai
 ```
 
